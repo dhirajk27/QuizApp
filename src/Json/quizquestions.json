@@ -2,115 +2,120 @@
     "data": [
         {
             "id": 1,
-            "question": "What is the capital of India ?",
-            "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/2560px-Flag_of_India.svg.png",
+            "question": "Which of the following is an example of a web browser?",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png",
             "choices": [
-                "Split",
-                "Osijek",
-                "New Delhi",
-                "Rijeka"
+                "Microsoft Word",
+                "Google Chrome",
+                "Adobe Photoshop",
+                "Visual Studio"
             ],
-            "answer": "New Delhi"
+            "answer": "Google Chrome"
         },
         {
             "id": 2,
-            "question": "What is the capital of Russian ?",
+            "question": "Which data structure works on the principle of First-In-First-Out (FIFO)?",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Data_Queue.svg",
             "choices": [
-                "Moscow",
-                "Ljubljana",
-                "Maribor",
-                "Koper"
+                "Stack",
+                "Queue",
+                "Linked List",
+                "Binary Tree"
             ],
-            "answer": "Moscow"
+            "answer": "Queue"
         },
         {
             "id": 3,
-            "question": "What is the capital of Austria ?",
+            "question": "Which of the following is not a programming language?",
+            "src": "https://cdn.prod.website-files.com/5f2b1efb0f881760ffdc5c96/63c12849a1c7e9df64c819fc_programming-languages-shutterstock-1680857539-p-1080.webp",
             "choices": [
-                "Graz",
-                "Salzburg",
-                "Innsbruck",
-                "Vienna"
+                "Python",
+                "HTML",
+                "Java",
+                "C++"
             ],
-            "answer": "Vienna"
+            "answer": "HTML"
         },
         {
             "id": 4,
-            "question": "What is the capital of USA ?",
+            "question": "What does HTTP stand for?",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/HTTP_logo.svg",
             "choices": [
-                "Belgrade",
-                "Novi Sad",
-                "Niš",
-                "Washington"
+                "HyperText Transfer Protocol",
+                "HyperText Transmission Protocol",
+                "HyperTransfer Text Process",
+                "HighText Transmission Protocol"
             ],
-            "answer": "Washington"
+            "answer": "HyperText Transfer Protocol"
         },
         {
             "id": 5,
-            "question": "What is the capital of Bosnia and Herzegovina ?",
-            "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+            "question": "Which of these is used to style web pages?",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg",
             "choices": [
-                "Mostar",
-                "Sarajevo",
-                "Banja Luka",
-                "Tuzla"
+                "HTML",
+                "CSS",
+                "Python",
+                "SQL"
             ],
-            "answer": "Sarajevo"
+            "answer": "CSS"
         },
         {
             "id": 6,
-            "question": "What is the capital of United Kingdom ?",
+            "question": "Which of the following is an example of an operating system?",
             "choices": [
-                "Zalaegerszeg",
-                "Eger",
-                "London",
-                "Budapest"
+                "Google Docs",
+                "Windows 10",
+                "Python",
+                "MySQL"
             ],
-            "answer": "London"
+            "answer": "Windows 10"
         },
         {
             "id": 7,
-            "question": "What is the capital of Romania ?",
+            "question": "What is the main memory of a computer called?",
             "choices": [
-                "Bucharest",
-                "Craiova",
-                "Constanta",
-                "Braila"
+                "Hard Drive",
+                "RAM",
+                "Cache",
+                "ROM"
             ],
-            "answer": "Bucharest"
+            "answer": "RAM"
         },
         {
             "id": 8,
-            "question": "What is the capital of Germany ?",
+            "question": "Which symbol is used to denote comments in Python?",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
             "choices": [
-                "Wolfsburg",
-                "Munich",
-                "Berlin",
-                "Frankfurt"
+                "//",
+                "/*",
+                "#",
+                "--"
             ],
-            "answer": "Berlin"
+            "answer": "#"
         },
         {
             "id": 9,
-            "question": "What is the capital of Australia ?",
+            "question": "Which loop is guaranteed to execute at least once?",
             "choices": [
-                "Wolfsburg",
-                "Canberra",
-                "Berlin",
-                "Frankfurt"
+                "For loop",
+                "While loop",
+                "Do-while loop",
+                "Infinite loop"
             ],
-            "answer": "Canberra"
+            "answer": "Do-while loop"
         },
-      {
-            "id": 9,
-            "question": "What is the capital of China?",
+        {
+            "id": 10,
+            "question": "In which of the following does SQL stand for?",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
             "choices": [
-                "Hainan",
-                "Jilin",
-                "Liaoning",
-                "Beijing"
+                "Structured Query Language",
+                "Simple Query Language",
+                "Sequential Query Language",
+                "Standard Query Language"
             ],
-            "answer": "Beijing"
+            "answer": "Structured Query Language"
         }
     ]
 }
