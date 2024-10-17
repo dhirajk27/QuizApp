@@ -4,7 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Clone the repository First, clone the repository from GitHub:
+```bash
+git clone https://github.com/dhirajk27/QuizApp.git
+cd QuizApp
+```
+Install dependencies Navigate into the project directory and install the dependencies:
+```bash
+npm install
+npm install react-d3-speedometer
+npm install react-countdown-circle-timer
+
+```
 
 ### `npm start`
 
