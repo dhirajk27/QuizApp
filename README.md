@@ -16,8 +16,11 @@ npm install react-d3-speedometer
 npm install react-countdown-circle-timer
 
 ```
+Start the app Run the following command to start the app in development mode:
+```bash
+npm start
 
-### `npm start`
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
